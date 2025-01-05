@@ -1,7 +1,7 @@
 **Real Estate Management System
 **
 
-This repository contains the source code for a Real Estate Management System, developed as part of an agile team project. 
+This repository contains the source code for a Real Estate Management System, developed as part of a group project for UOW-SIM CSIT 314.
 The system is designed to support key functionalities for real estate agents, buyers, sellers, and admins in a property management ecosystem. The system was developed using object-oriented programming principles and follows the Agile methodology to ensure iterative progress and continuous improvement.
 
 Key Features
